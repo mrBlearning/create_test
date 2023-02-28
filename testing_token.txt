@@ -14,4 +14,5 @@ adding another line after entering the credentials
 
 testing the command for caching time change
 
+testing gpg configuration for credentialstore
 
